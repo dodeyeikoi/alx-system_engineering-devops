@@ -1,1 +1,1 @@
-Redirect
+redirect
